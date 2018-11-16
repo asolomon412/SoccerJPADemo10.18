@@ -21,7 +21,7 @@
 			Team Name: <input type="text" name="teamname" value="Grant Chirpus">
 			<!-- Member Role: <input type="text" name="memberrole"> Member
 			Team: <input type="text" name="memberteam"> -->
-			<input type="submit" value="Update">
+			<input class="btn btn-primary" type="submit" value="Update">
 		</form>
 	</div>
 </body>
